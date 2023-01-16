@@ -1,5 +1,5 @@
 # MergeStudentPDF
-從資料庫提取相關欄位資訊，產生html並使用使用iText將html內容轉為PDF檔案
+從資料庫提取相關欄位資訊，產生html並使用iText將html內容轉為PDF檔案
 
 此專案搭配iText套件產生最後成果：PDF檔案，以下為使用步驟
 1.使用HtmlConverter 針對產生出來的Html字串轉換成PDF
